@@ -41,5 +41,5 @@ I believe that documentation is a core product feature. In a high-growth environ
 ---
 
 ## 📫 Let's Connect
-* **LinkedIn:** [girish-malagimani](www.linkedin.com/in/girish-malagimani)
+* **LinkedIn:** www.linkedin.com/in/girish-malagimani
 * **Location:** Bangalore, India (Open to Hybrid/Remote)
