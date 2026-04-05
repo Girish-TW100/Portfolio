@@ -9,13 +9,13 @@ As a Senior Technical Writer with experience in complex enterprise SaaS environm
 
 ## 🚀 Featured API Projects
 
-### 1. [OpenWeather API Quick Start & Surfreport Tutorial](./projects/openweather)
+### 1. [OpenWeather API Quick Start & Surfreport Tutorial](https://github.com/Girish-TW100/Portfolio/tree/main/openweather)
 * **Goal:** Drastically reduce "Time-to-First-Call" for new developers.
 * **Key Deliverables:** * RESTful API Reference with copy-pasteable **cURL** snippets.
     * Step-by-step **cUrl-JSON Tutorial**: *"Surfreport for sufing recommendations."*
 * **Skills:** REST Fundamentals, JSON Schema, cURL.
 
-### 2. [Storm Glass Marine Weather Guide (cURL/JSON Focus)](./projects/stormglass)
+### 2. [Storm Glass Marine Weather Guide (cURL/JSON Focus)]([./projects/stormglass](https://github.com/Girish-TW100/Portfolio/tree/main/storm-glass))
 * **Goal:** Demonstrate technical literacy using language-agnostic tools.
 * **Key Deliverables:**
     * Advanced authentication handling via **HTTP Headers**.
